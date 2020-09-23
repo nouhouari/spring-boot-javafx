@@ -1,5 +1,10 @@
 # Read Me First
 
+This project shows how to integrate Spring Boot and JavaFX.
+
+The main goal is to use it with Robot framework and JavaFXLibrary for end 2 end acceptance tests.
+
+
 Inspired from this article
 [https://dzone.com/articles/tutorial-reactive-spring-boot-part-3-a-javafx-spri](https://dzone.com/articles/tutorial-reactive-spring-boot-part-3-a-javafx-spri)
 
@@ -20,3 +25,6 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
+# License
+
+Apache 2.0
